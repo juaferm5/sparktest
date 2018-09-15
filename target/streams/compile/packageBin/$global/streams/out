@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/juan/IdeaProjects/untitled/target/scala-2.11/sparktest_2.11-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1/test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1/test.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1/test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1/test$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	shakespeare.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/shakespeare.txt[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1/test$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1/test$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1/test$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1/test$$anonfun$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1/test$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1/test$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/SparkTest/t1/test$$anonfun$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/juan/IdeaProjects/untitled/target/scala-2.11/classes/com/SparkTest/t1/test$$anonfun$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
